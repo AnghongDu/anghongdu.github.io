@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Anghong Du"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profile.png"
   bio    : "PhD candidate in AI for Medical Image Analysis, University of Birmingham"
   links:
     - label: "Website"
