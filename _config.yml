@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Anghong Du"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "PhD candidate in AI for Medical Image Analysis, University of Birmingham"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -71,9 +71,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
+    - label: "Google Scholar"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://scholar.google.com/citations?user=TMRAu_kAAAAJ&hl=zh-CN"
 
 footer:
   links:
